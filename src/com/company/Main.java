@@ -6,7 +6,7 @@ public class Main {
     private String middleName;
     private String lastName;
 
-    public Main(String lastName, String firstName, String MiddleName) {
+    public Main(String lastName, String firstName, String middleName) {
         this.lastName = lastName;
         this.firstName = firstName;
         this.middleName = middleName;
